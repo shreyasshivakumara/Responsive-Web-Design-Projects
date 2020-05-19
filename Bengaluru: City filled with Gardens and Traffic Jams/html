@@ -1,0 +1,49 @@
+<main id="main">
+  <h1 id="title">Bengaluru</h1>
+  <p>City filled with Gardens and Traffic Jams</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://res.cloudinary.com/dyyjph6kx/image/upload/f_auto,q_auto,c_fit/v1519892194/t8qj3ldr6cj72idz9c4h.jpg"
+      alt=""
+    />
+    <figcaption id="img-caption">
+      An Image showing Bengaluru's garden and  traffic jam.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a list of thing you need to know about the City.</h3>
+    <ul>
+      <li><strong>It's Kannada And Not Anything Else</strong> - Karnataka’s official language is Kannada and the people are called Kannadigas. Now, that we have established that, make sure you do not for the love of good beer (and the Almighty) ever say, “Kannad”. Acceptable terms can be anything from “Maga” to “Bro”. Just befriend a Kannadiga and ask them to take you through Kannada 101, so that you are more or less sorted. Or you can learn it 25 days via WhatsApp. You beda (go figure what the meaning is) any trouble by speaking bad Kannada.</li>
+      <li>
+        <strong>Exploring The Garden City</strong> - Originally (and still) called the Garden City, recent times have seen Bangalore being called everything from Silicon Valley of the East to Start-Up City. It’s also called the Pub Capital but more on that later. The city’s biggest lung space is the iconic Cubbon Park, where it’s perfect for anything from a quick morning run, a lazy afternoon stroll, or to get some serious photography done. And when you throw in history, culture and architecture into the mix, and you’ve got a winner. Next up is Lal Bagh, where you can admire the vast flora, checking out the annual flower show and shopping for the season’s first mangoes to just going for a run, it’s one place you can’t get bored of. But enough of the parks, neighbourhoods such as Malleswaram and Jayanagar are filled with greenery, so be sure to check that out.
+      </li>
+      <li>
+        <strong>Not Taking Rejections Seriously</strong> - There’s a saying in Bangalore when it comes to taking the rick – “Don’t tell the driver where to go, but rather ask him where he would like to go instead”. In this start-up city, the rejection rate by auto drivers is so high, that sometimes we are reduced to despair (and tears). Worst is when it rains. Don’t even expect the auto drivers to even look at you. But, hey, don’t let these rejections get to you. Just put on a brave face and move on to the next auto. Oh, and don’t let us get started on getting an auto driver to put the meter on. It’s either half a kidney, meter + 10 (or 20), or one-and-half (usually after 10 pm). If you do find an auto willing to go by meter, then lady luck shines on you brightly.
+      </li>
+      <li>
+        <strong>Bring Bread, Cause You Will Find Traffic Jam Everywhere</strong> - Bangalore and traffic go hand in hand. If the place you are staying requires you to cross any of these places — Silk Board, Tin Factory, Sony World Signal, ITPL Junction, EGL, Outer Ring Road, or Bannerghatta — then you are likely to be stuck in a jam that will see you growing old, missing out birthdays and even having enough time to have a 10-course meal in the car. No, we are not exaggerating. Ask any true blue Bangalorean, and they will tell you about the time they were stuck trying to cross Silk Board. Or the time where time actually stopped at Sony World Junction.
+      </li>
+      <li>
+        <strong>Sipping On A Pint Of Beer At 4 PM Is Totes Acceptable</strong> - Coming to Bangalore being the Pub Capital, you could say that there’s a pub in almost every other cross, but then that would be pushing it too much. But then again, when we last counted, there were roughly 30-odd microbreweries. And we can’t even count how many bars are there. Your rite of beer-age should start at either Arbor Brewing Company or Toit, both of which are iconic in their own right. You are going to find regular patrons sipping their ales and stouts at these hubs at even two in the afternoon. If you love beer, you are in the right place.
+      </li>
+      <li>
+        <strong>Get An Overdose Of Ghee-Soaked Goodness</strong> - You are in South India and there’s no way that you are going to miss out on dosas, idlis, vadas, and the slightly sweet sambhar. Top places to get your heart rate spiking includes Vidyarthi Bhavan for their crispy dosas, ghee-soaked Khara Bath (rava upma), and coffee. CTR or Sree Sagar as it is called now is our (and old-school Banglorean) favourite and you need to go there for their Benne Masala Dosa. You are likely to swoon a little with the wafting aroma of melted benne (butter) on the crispy masala dosa. Don’t miss out on Veena Stores as well.
+      </li>
+      <li>
+        <strong>It's Filter Coffee For The Win</strong> - Need a strong pick me up coffee? Say no more as Brahmin’s Coffee Bar has you covered with its cup of filter coffee and a plate of hot, crips vada or fluffy idlis served with piquant white chutney. You don’t just go to Brahmin’s and not have the vada or idli. You just don’t.
+      </li>
+    </ul>
+    
+    <h3>
+      If you have time, you should read more about this incredible city 
+      on 
+      <a
+        id="tribute-link"
+        href="https://en.wikipedia.org/wiki/Bangalore"
+        target="_blank"
+        >Wikipedia entry</a
+      >.
+    </h3>
+  </section>
+</main>
