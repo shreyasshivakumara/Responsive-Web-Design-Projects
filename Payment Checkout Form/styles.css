@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Modern+Antiqua&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Alata', sans-serif;
+}
+
+body{
+  background-color: #2196f3;
+  margin: 0 10px;
+}
+
+.Payment{
+  background: #f8f8f8;
+  max-width: 360px;
+  margin: 100px auto;
+  padding: 30px;
+  padding-top: 65px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.Payment h2{
+  text-align: center;
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+  color: #0d3c61;
+}
+
+.form .label{
+  display: block;
+  margin-bottom: 4px;
+}
+
+.input{
+  padding: 13px 0px 13px 25px;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 1px;
+  word-wrap: 3px;
+  outline: None;
+  border: 2px solid #dddddd;
+  border-radius: 5px;
+  color: #555555;
+}
+
+ .card-grp{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-items{
+  width: 48%;
+}
+
+.space{
+  margin-bottom: 20px;
+}
+
+.icon-relative{
+  position: relative;
+}
+
+.fas{
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  font-size: 21px;
+}
+
+.btn{
+  margin-top: 40px;
+  background: #2196f3;
+  padding: 12px;
+  text-align: center;
+  color: #f8f8f8;
+  border-radius: 5px;
+}
