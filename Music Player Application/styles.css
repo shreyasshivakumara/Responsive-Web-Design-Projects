@@ -1,0 +1,116 @@
+
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+
+body{
+  background-color: black;
+}
+
+#BG {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  top:0; left:0; right:0; bottom: 0;
+  filter: blur(40px);
+}
+
+.container {
+  position: absolute;
+  height: 400pt;
+  width: 250pt;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  border-radius: 8px;
+  box-shadow: 0 0 15px black;
+}
+
+
+#thumbnail{
+  position: absolute;
+  width: 100%;
+}
+
+.container .song_name{
+  position: absolute;
+  height: 100pt;
+  width: 300pt;
+  top:-5% ;
+  background: -webkit-linear-gradient(45deg,rgb(72,0,139),rgba(0, 199, 149));
+  z-index: 2;
+  filter: blur(20px);
+}
+ .box{
+  position: absolute;
+  height: 100pt;
+  width: 300pt;
+  bottom:-5% ;
+  background: -webkit-linear-gradient(45deg,rgb(72,0,139),rgba(0, 199, 149));
+  filter: blur(20px);
+}
+
+.song_title {
+  position: absolute;
+  z-index: 12;
+  color: white;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+  top: 10%;
+text-align: center;
+}
+
+.song-title {
+  position: absolute;
+  z-index: 12;
+  color: white;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+  top: 10%;
+text-align: center;
+}
+
+
+#pp{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  filter: invert(1);
+  bottom: 30px;
+  cursor: pointer;
+}
+
+#ps,
+#ns {
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  filter: invert(1);
+  bottom: 8%;
+  cursor: pointer;
+}
+
+#ns{
+  right: 20%;
+}
+
+#ps{
+  left: 20%;
+  transform: rotate(180deg);
+}
+
+#volume{
+  position: absolute;
+  -webkit-apperance: none;
+  height: 3px;
+  width: 57%;
+  border: 0;
+  bottom: 3%;
+  color: black;
+}
